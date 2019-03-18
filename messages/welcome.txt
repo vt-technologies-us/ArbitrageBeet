@@ -1,0 +1,4 @@
+Hi {name}.
+Welcome to cryptocurrecny arbitrage opportunity bot. This bot finds arbitrage opportunity between cryptocurrency exchanges and publish.
+Each time you want to find an arbitrage opportunity only send /request.
+Currently we start our analysis between Binance and Kucoin exchanges.
